@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";    
+}
+
+<div class="text-center">
+    <h1 class="display-4">Tour Selection</h1>
+    <p>Name:</p>
+    <input />
+    <p>Email:</p>
+    <input />
+    <p>Tours</p>
+    <select>
+        <option>Tour 1</option>
+        <option>Tour 2</option>
+        <option>Tour 3</option>
+    </select>
+    <input type="radio" id="book" name="tourSelection" value="Book"/>
+    <label for="book">Book</label>
+    <input type="radio" id="cancel" name="tourSelection" value="Cancel"/>
+    <label for="cancel">Cancel</label>
+    <button onclick="@{Model.SendMessage();};">Submit!</button>
+</div>
