@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "97aEbFOr996DDYPbxdrxtF15AeBNHQl9PyVGgj1pzs8o5iuxk+ECeD6wTP8gZo8kMWhmQZ5fu46X2qKDfeSIXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guray\\Desktop\\RabbitMQ-TourSelection\\RabbitMQ-TourSelection\\RabbitMQ-TourSelection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guray\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\guray\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\guray\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

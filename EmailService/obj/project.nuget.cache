@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPMwAY7bwwPvJGjXb9KiX/Ds8KXChRkCblOh9AQBIBXF6F8Xec664JKXqvhs1B4yIDMvQKtps3XCcMXbI+BVug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guray\\Desktop\\RabbitMQ-TourSelection\\EmailService\\EmailService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guray\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\guray\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\guray\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\bin\Debug\net6.0\EmailService.exe
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\bin\Debug\net6.0\EmailService.deps.json
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\bin\Debug\net6.0\EmailService.runtimeconfig.json
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\bin\Debug\net6.0\EmailService.dll
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\bin\Debug\net6.0\EmailService.pdb
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.AssemblyInfo.cs
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.csproj.CopyComplete
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.dll
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\refint\EmailService.dll
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.pdb
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\EmailService.genruntimeconfig.cache
+C:\Users\guray\Desktop\RabbitMQ-TourSelection\EmailService\obj\Debug\net6.0\ref\EmailService.dll
